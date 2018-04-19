@@ -7,8 +7,8 @@ Nessa etapa iremos entender como funciona e como aplicados o uso do rest no dia 
 * O que é Rest
 * Restrições (Contraints)
 * Fundamentos
-* Rest X SOAP
-* Boas práticas de HTTP
+* Verbos
+* Respostas
 
 ## Finalizando
 

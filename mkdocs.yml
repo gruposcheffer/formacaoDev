@@ -4,7 +4,7 @@ theme:
   name: 'material'
   language: 'pt'
   palette:
-    primary: 'red'
+    primary: 'green'
     accent: 'green'
   font:
     text: 'Roboto'
