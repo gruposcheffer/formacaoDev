@@ -1,0 +1,50 @@
+/**** columns ****/
+
+.md-main__inner {
+    height: 100%;
+    padding-top: 3rem;
+    padding-bottom: .1rem;
+}
+
+.md-grid {
+    max-width: 165rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media only screen and (min-width: 76.25em) {
+    .md-sidebar--secondary {
+        margin-left: 165rem;
+    }
+}
+
+center-content {
+    text-align: center;
+}
+
+div.one-column {
+    float:left;
+    width:97%;
+    margin: 4px 3% 0px 0px;
+}
+div.one-column :first-child {
+    margin-top: 0;
+}
+
+div.two-column {
+    float:left;
+    width:47%;
+    margin: 4px 3% 0px 0px;
+}
+div.two-column :first-child {
+    margin-top: 0;
+}
+
+div.three-column {
+    float:left;
+    width:30%;
+    margin: 4px 3% 0px 0px;
+}
+div.three-column :first-child {
+    margin-top: 0;
+}

@@ -1,0 +1,82 @@
+site_name: Treinamentos TI
+
+theme:
+  name: 'material'
+  language: 'pt'
+  palette:
+    primary: 'red'
+    accent: 'green'
+  font:
+    text: 'Roboto'
+    code: 'Ubuntu Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: true
+
+# Opções
+extra:
+  search:
+    tokenizer: '[\s\-\.]+'
+  social:
+    - type: 'github'
+      link: 'https://github.com/gruposcheffer'
+
+extra_css:
+  - 'extras/css/extra.css'
+
+extra_javascript:
+  - 'extras/js/application.js'
+
+markdown_extensions:
+  - pymdownx.extra # replacement for markdown.extensions.extra see https://facelessuser.github.io/pymdown-extensions/extensions/extra/
+  - pymdownx.github # untility to add a bunch of others
+  - markdown.extensions.sane_lists
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite #(guess_lang=false)
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - markdown_include.include:
+      base_path: 'docs'
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+
+  - admonition
+  - codehilite(guess_lang=false,linenums=true)
+  - toc(permalink=true)
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+
+pages:
+  - Home: 
+    - Sobre a formação: 'index.md'
+    - Pré Requisitos: 'pre-requisitos.md'
+  - Conceitos:
+    - Rest:
+      - O que vamos aprender: 'conceitos/rest/index.md'
+      - O que é: 'conceitos/rest/rest.md'
+      - Rest ou Restful: 'conceitos/rest/rest-or-restful.md'
+      - Restrições: 'conceitos/rest/constraints.md'
+      - Fundamentos: 'conceitos/rest/fundamentos.md'
+      - Verbos: 'conceitos/rest/verbos.md'
+      - Respostas: 'conceitos/rest/respostas.md'
