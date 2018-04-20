@@ -71,6 +71,8 @@ pages:
   - Home: 
     - Sobre a formação: 'index.md'
     - Pré Requisitos: 'pre-requisitos.md'
+  - Aulas:
+    - Rest: 'aulas/1-rest.md'
   - Conceitos:
     - Rest:
       - O que vamos aprender: 'conceitos/rest/index.md'
