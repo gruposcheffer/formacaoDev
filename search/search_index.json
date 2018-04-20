@@ -72,13 +72,28 @@
         },
         {
             "location": "/aulas/1-rest/",
-            "text": "Aula 1 - Rest\n\u00b6\n\n\nNessa aula que teve in\u00edcio as 07:30 e durou at\u00e9 as 09:30 (dura\u00e7\u00e3o de 2 horas), participaram 6 pessoas:\n\n\n\n\n\n\n\n\nNome\n\n\nSetor\n\n\nConhecimento Pr\u00e9vio\n\n\n\n\n\n\n\n\n\n\nMarcos Oliveira\n\n\nAnalista de TI junior\n\n\nN\u00e3o\n\n\n\n\n\n\nEliston Guarda\n\n\nAnalista de TI junior\n\n\nSim\n\n\n\n\n\n\nBruno \u00c1vila\n\n\nCoordenador de Servi\u00e7os El\u00e9tricos\n\n\nN\u00e3o\n\n\n\n\n\n\nLuander Ilidio\n\n\nAuxiliar Administrativo Junior\n\n\nN\u00e3o\n\n\n\n\n\n\nDiego Silva\n\n\nAnalista de TI Pleno\n\n\nN\u00e3o\n\n\n\n\n\n\n\n\nAbordagem\n\u00b6\n\n\nNela, utilizamos o conte\u00fado do site e exemplos de aplica\u00e7\u00f5es internas (Painel de integra\u00e7\u00e3o, Painel de Pluma e Cota\u00e7\u00e3o WEB) para exemplificar situa\u00e7\u00f5es de uso do REST, suas seguran\u00e7as, falhas e aplica\u00e7\u00e3o na pr\u00e1tica.\n\n\nAtividades\n\u00b6\n\n\nDevido a ser um conceito te\u00f3rico, n\u00e3o desenvolvementos nenhum atividade.",
+            "text": "Aula 1 - Rest\n\u00b6\n\n\nNessa aula que teve in\u00edcio no dia 20/04/2018 entre \u00e0s 07:30H e 09:30H (dura\u00e7\u00e3o de 2 horas).\n\n\n\n\nParticipantes\n\u00b6\n\n\nParticiparam dessa aula 5 alunos.\n\n\nInstrutor\n\u00b6\n\n\nWilliam Galleti\n\n\nAlunos\n\u00b6\n\n\n\n\n\n\n\n\nNome\n\n\nSetor\n\n\nConhecimento Pr\u00e9vio\n\n\n\n\n\n\n\n\n\n\nMarcos Oliveira\n\n\nAnalista de TI junior\n\n\nN\u00e3o\n\n\n\n\n\n\nEliston Guarda\n\n\nAnalista de TI junior\n\n\nSim\n\n\n\n\n\n\nBruno \u00c1vila\n\n\nCoordenador de Servi\u00e7os El\u00e9tricos\n\n\nN\u00e3o\n\n\n\n\n\n\nLuander Ilidio\n\n\nAuxiliar Administrativo Junior\n\n\nN\u00e3o\n\n\n\n\n\n\nDiego Silva\n\n\nAnalista de TI Pleno\n\n\nN\u00e3o\n\n\n\n\n\n\n\n\nAbordagem\n\u00b6\n\n\nNela, utilizamos o conte\u00fado do site e exemplos de aplica\u00e7\u00f5es internas (Painel de integra\u00e7\u00e3o, Painel de Pluma e Cota\u00e7\u00e3o WEB) para exemplificar situa\u00e7\u00f5es de uso do REST, suas seguran\u00e7as, falhas e aplica\u00e7\u00e3o na pr\u00e1tica.\n\n\nAtividades\n\u00b6\n\n\nDevido a ser um conceito te\u00f3rico, n\u00e3o desenvolvementos nenhum atividade.",
             "title": "Rest"
         },
         {
             "location": "/aulas/1-rest/#aula-1-rest",
-            "text": "Nessa aula que teve in\u00edcio as 07:30 e durou at\u00e9 as 09:30 (dura\u00e7\u00e3o de 2 horas), participaram 6 pessoas:     Nome  Setor  Conhecimento Pr\u00e9vio      Marcos Oliveira  Analista de TI junior  N\u00e3o    Eliston Guarda  Analista de TI junior  Sim    Bruno \u00c1vila  Coordenador de Servi\u00e7os El\u00e9tricos  N\u00e3o    Luander Ilidio  Auxiliar Administrativo Junior  N\u00e3o    Diego Silva  Analista de TI Pleno  N\u00e3o",
+            "text": "Nessa aula que teve in\u00edcio no dia 20/04/2018 entre \u00e0s 07:30H e 09:30H (dura\u00e7\u00e3o de 2 horas).",
             "title": "Aula 1 - Rest"
+        },
+        {
+            "location": "/aulas/1-rest/#participantes",
+            "text": "Participaram dessa aula 5 alunos.",
+            "title": "Participantes"
+        },
+        {
+            "location": "/aulas/1-rest/#instrutor",
+            "text": "William Galleti",
+            "title": "Instrutor"
+        },
+        {
+            "location": "/aulas/1-rest/#alunos",
+            "text": "Nome  Setor  Conhecimento Pr\u00e9vio      Marcos Oliveira  Analista de TI junior  N\u00e3o    Eliston Guarda  Analista de TI junior  Sim    Bruno \u00c1vila  Coordenador de Servi\u00e7os El\u00e9tricos  N\u00e3o    Luander Ilidio  Auxiliar Administrativo Junior  N\u00e3o    Diego Silva  Analista de TI Pleno  N\u00e3o",
+            "title": "Alunos"
         },
         {
             "location": "/aulas/1-rest/#abordagem",
