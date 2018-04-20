@@ -1,6 +1,16 @@
 # Aula 1 - Rest
 
-Nessa aula que teve início as 07:30 e durou até as 09:30 (duração de 2 horas), participaram 6 pessoas:
+Nessa aula que teve início no dia 20/04/2018 entre às 07:30H e 09:30H (duração de 2 horas).
+
+## Participantes
+
+Participaram dessa aula 5 alunos.
+
+### Instrutor
+
+William Galleti
+
+### Alunos
 
 |Nome|Setor|Conhecimento Prévio|
 |---|---|--:|
