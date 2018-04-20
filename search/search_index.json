@@ -1,0 +1,219 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Forma\u00e7\u00e3o Desenvolvedor Grupo Scheffer\n\u00b6\n\n\nNesse material, vamos abordar os principais tecnologias para desenvolvimento de ferramentas internamente.\n\n\nNele vamos abordar os seguintes assuntos.\n\n\n\n\nConceitos\n\u00b6\n\n\n\n\nRest\n\n\nJson\n\n\nGit    \n\n\nIdenta\u00e7\u00e3o e Organiza\u00e7\u00e3o\n\n\nFerramentas\n\n\n\n\n\n\n\n\nBanco de Dados\n\u00b6\n\n\n\n\nQueries\n\n\nJoins\n\n\nQueries Avan\u00e7adas\n\n\nUpdates, Inserts e Deletes\n\n\nProcedures\n\n\nFunctions\n\n\n\n\n\n\n\n\nLSP\n\u00b6\n\n\n\n\nConceitos\n\n\nRelat\u00f3rios\n\n\nRegras\n\n\nServi\u00e7os\n\n\nTelas SGI\n\n\n\n\n\n\n\n\nWEB (Javascript)\n\u00b6\n\n\n\n\nHtml (Pr\u00e9 requisito)\n\n\nCSS (Pr\u00e9 requisito)\n\n\nJavascript \n\n\nVueJS\n\n\nDesenvolver uma aplica\u00e7\u00e3o\n\n\n\n\n\n\n\n\nPython\n\u00b6\n\n\n\n\nConceitos\n\n\nTipos de Dados\n\n\nListas\n\n\nDicion\u00e1rios\n\n\nFun\u00e7\u00f5es\n\n\nExemplos\n\n\n\n\n\n\n\n\nDjango\n\u00b6\n\n\n\n\nAplica\u00e7\u00e3o Simples\n\n\nDjango RestFramework (webAPI)\n\n\nAplica\u00e7\u00e3o Profissional\n\n\nDeploy da aplica\u00e7\u00e3o\n\n\nMundo Real\n\n\nAplica\u00e7\u00f5es em produ\u00e7\u00e3o\n\n\nDesenvolvimento de uma aplica\u00e7\u00e3o",
+            "title": "Sobre a forma\u00e7\u00e3o"
+        },
+        {
+            "location": "/#formacao-desenvolvedor-grupo-scheffer",
+            "text": "Nesse material, vamos abordar os principais tecnologias para desenvolvimento de ferramentas internamente.  Nele vamos abordar os seguintes assuntos.",
+            "title": "Forma\u00e7\u00e3o Desenvolvedor Grupo Scheffer"
+        },
+        {
+            "location": "/#conceitos",
+            "text": "Rest  Json  Git      Identa\u00e7\u00e3o e Organiza\u00e7\u00e3o  Ferramentas",
+            "title": "Conceitos"
+        },
+        {
+            "location": "/#banco-de-dados",
+            "text": "Queries  Joins  Queries Avan\u00e7adas  Updates, Inserts e Deletes  Procedures  Functions",
+            "title": "Banco de Dados"
+        },
+        {
+            "location": "/#lsp",
+            "text": "Conceitos  Relat\u00f3rios  Regras  Servi\u00e7os  Telas SGI",
+            "title": "LSP"
+        },
+        {
+            "location": "/#web-javascript",
+            "text": "Html (Pr\u00e9 requisito)  CSS (Pr\u00e9 requisito)  Javascript   VueJS  Desenvolver uma aplica\u00e7\u00e3o",
+            "title": "WEB (Javascript)"
+        },
+        {
+            "location": "/#python",
+            "text": "Conceitos  Tipos de Dados  Listas  Dicion\u00e1rios  Fun\u00e7\u00f5es  Exemplos",
+            "title": "Python"
+        },
+        {
+            "location": "/#django",
+            "text": "Aplica\u00e7\u00e3o Simples  Django RestFramework (webAPI)  Aplica\u00e7\u00e3o Profissional  Deploy da aplica\u00e7\u00e3o  Mundo Real  Aplica\u00e7\u00f5es em produ\u00e7\u00e3o  Desenvolvimento de uma aplica\u00e7\u00e3o",
+            "title": "Django"
+        },
+        {
+            "location": "/pre-requisitos/",
+            "text": "Pr\u00e9 requisitos\n\u00b6\n\n\nFerramentas e skills necess\u00e1rias para iniciar a forma\u00e7\u00e3o\n\n\nL\u00f3gica de Programa\u00e7\u00e3o\n\u00b6\n\n\nLinks que podem ajudar\n\n\nhttps://cursos.alura.com.br/course/logica-programacao-javascript-html\n\n\nGIT\n\u00b6\n\n\nNecess\u00e1rio conhecimento em git\n\n\n\n\nConfigura\u00e7\u00f5es\n\n\nCommits\n\n\nBranchs\n\n\n\n\nLinks que podem ajudar\n\n\nhttps://github.com/wgalleti/GrupoScheffer/blob/master/day1.md\n\n\nHtml\n\u00b6\n\n\nNecess\u00e1rio conhecimento b\u00e1sico em HTML, como tags, forms, semantica e etc.\n\n\nLinks que podem ajudar\n\n\nhttps://www.devmedia.com.br/html-basico-codigos-html/16596\n\n\nhttps://cursos.alura.com.br/category/front-end\n\n\nCSS\n\u00b6\n\n\nNecess\u00e1rio conhecimento b\u00e1sico em CSS como classes, ids, blocos, alinhamentos e etc.\n\n\nLinks que podem ajudar\n\n\nhttps://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico\n\n\nhttps://github.com/tonylampada/eunaoaguentomaisnaosabercss",
+            "title": "Pr\u00e9 Requisitos"
+        },
+        {
+            "location": "/pre-requisitos/#pre-requisitos",
+            "text": "Ferramentas e skills necess\u00e1rias para iniciar a forma\u00e7\u00e3o",
+            "title": "Pr\u00e9 requisitos"
+        },
+        {
+            "location": "/pre-requisitos/#logica-de-programacao",
+            "text": "Links que podem ajudar  https://cursos.alura.com.br/course/logica-programacao-javascript-html",
+            "title": "L\u00f3gica de Programa\u00e7\u00e3o"
+        },
+        {
+            "location": "/pre-requisitos/#git",
+            "text": "Necess\u00e1rio conhecimento em git   Configura\u00e7\u00f5es  Commits  Branchs   Links que podem ajudar  https://github.com/wgalleti/GrupoScheffer/blob/master/day1.md",
+            "title": "GIT"
+        },
+        {
+            "location": "/pre-requisitos/#html",
+            "text": "Necess\u00e1rio conhecimento b\u00e1sico em HTML, como tags, forms, semantica e etc.  Links que podem ajudar  https://www.devmedia.com.br/html-basico-codigos-html/16596  https://cursos.alura.com.br/category/front-end",
+            "title": "Html"
+        },
+        {
+            "location": "/pre-requisitos/#css",
+            "text": "Necess\u00e1rio conhecimento b\u00e1sico em CSS como classes, ids, blocos, alinhamentos e etc.  Links que podem ajudar  https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico  https://github.com/tonylampada/eunaoaguentomaisnaosabercss",
+            "title": "CSS"
+        },
+        {
+            "location": "/conceitos/rest/",
+            "text": "Treinamento de Rest\n\u00b6\n\n\nNessa etapa iremos entender como funciona e como aplicados o uso do rest no dia a dia do desenvolvimento de sistemas.\n\n\nPara isso, iremos abordar as sequintes situa\u00e7\u00f5es:\n\u00b6\n\n\n\n\nO que \u00e9 Rest\n\n\nRestri\u00e7\u00f5es (Contraints)\n\n\nFundamentos\n\n\nVerbos\n\n\nRespostas\n\n\n\n\nFinalizando\n\u00b6\n\n\nFinalizando, vou demonstrar uma aplica\u00e7\u00e3o real utilizando a arquitetura, demonstrando sua simplicidade.",
+            "title": "O que vamos aprender"
+        },
+        {
+            "location": "/conceitos/rest/#treinamento-de-rest",
+            "text": "Nessa etapa iremos entender como funciona e como aplicados o uso do rest no dia a dia do desenvolvimento de sistemas.",
+            "title": "Treinamento de Rest"
+        },
+        {
+            "location": "/conceitos/rest/#para-isso-iremos-abordar-as-sequintes-situacoes",
+            "text": "O que \u00e9 Rest  Restri\u00e7\u00f5es (Contraints)  Fundamentos  Verbos  Respostas",
+            "title": "Para isso, iremos abordar as sequintes situa\u00e7\u00f5es:"
+        },
+        {
+            "location": "/conceitos/rest/#finalizando",
+            "text": "Finalizando, vou demonstrar uma aplica\u00e7\u00e3o real utilizando a arquitetura, demonstrando sua simplicidade.",
+            "title": "Finalizando"
+        },
+        {
+            "location": "/conceitos/rest/rest/",
+            "text": "Rest\n\u00b6\n\n\n\n\n\n\n\n\n\n\nCriado por Roy Fielding\n a Representational State Transfer (REST), em portugu\u00eas Transfer\u00eancia de Estado Representacional, \u00e9 um estilo de arquitetura que define um conjunto de restri\u00e7\u00f5es e propriedades baseados em HTTP. \n\n\nWeb Services que obedecem ao estilo arquitetural REST, ou web services \nRESTful\n, fornecem interoperabilidade entre sistemas de computadores na Internet. \n\n\nOs web services compat\u00edveis com REST permitem que os sistemas solicitantes acessem e manipulem representa\u00e7\u00f5es textuais de recursos da Web usando um conjunto uniforme e predefinido de opera\u00e7\u00f5es sem estado. \n\n\nPara utilizarmos a arquitetura com efici\u00eancia, Roy, durante sua tese de doutorado, criou as chamadas \nRest Contraints\n que s\u00e3o um guia de boas pr\u00e1ticas.",
+            "title": "O que \u00e9"
+        },
+        {
+            "location": "/conceitos/rest/rest/#rest",
+            "text": "Criado por Roy Fielding  a Representational State Transfer (REST), em portugu\u00eas Transfer\u00eancia de Estado Representacional, \u00e9 um estilo de arquitetura que define um conjunto de restri\u00e7\u00f5es e propriedades baseados em HTTP.   Web Services que obedecem ao estilo arquitetural REST, ou web services  RESTful , fornecem interoperabilidade entre sistemas de computadores na Internet.   Os web services compat\u00edveis com REST permitem que os sistemas solicitantes acessem e manipulem representa\u00e7\u00f5es textuais de recursos da Web usando um conjunto uniforme e predefinido de opera\u00e7\u00f5es sem estado.   Para utilizarmos a arquitetura com efici\u00eancia, Roy, durante sua tese de doutorado, criou as chamadas  Rest Contraints  que s\u00e3o um guia de boas pr\u00e1ticas.",
+            "title": "Rest"
+        },
+        {
+            "location": "/conceitos/rest/rest-or-restful/",
+            "text": "Rest ou Restfull\n\u00b6\n\n\nN\u00e3o existe diferen\u00e7a entre Rest e Restful, onde Rest \u00e9 a arquitetura (conceito), Restfull \u00e9 a implementa\u00e7\u00e3o da arquitetura (webservice).",
+            "title": "Rest ou Restful"
+        },
+        {
+            "location": "/conceitos/rest/rest-or-restful/#rest-ou-restfull",
+            "text": "N\u00e3o existe diferen\u00e7a entre Rest e Restful, onde Rest \u00e9 a arquitetura (conceito), Restfull \u00e9 a implementa\u00e7\u00e3o da arquitetura (webservice).",
+            "title": "Rest ou Restfull"
+        },
+        {
+            "location": "/conceitos/rest/constraints/",
+            "text": "Constraints ou Restri\u00e7\u00f5es\n\u00b6\n\n\n\n\nWarning\n\n\nLembrando que o protocolo \u00e9 livre para ser utilizado da forma que melhor lhe atender. Por\u00e9m, seguindo essas constraints, voc\u00ea ir\u00e1 aproveitar melhor a arquitetura\n\n\n\n\nCliente / Servidor\n\u00b6\n\n\nSepara\u00e7\u00e3o de responsabilidade \u00e9 uma tecnicas mais utilizadas em desenvolvimento. E separando cliente de servidor, voc\u00ea consegue definir sua regra de neg\u00f3cio e sua camada de apresenta\u00e7\u00e3o mais simples e com focos em suas atividades (servidor se preocupa com banco de dados, valida\u00e7\u00f5es de regras, rotas e etc. J\u00e1 o cliente se preocupa com apresenta\u00e7\u00e3o, valida\u00e7\u00e3o de entrada, apresenta\u00e7\u00e3o de erros e etc).\n\n\nCom isso podemos at\u00e9 hospedar e desenvolver as camadas separadamente. Isso gera uma flexibilidade de escalabilidade de aplica\u00e7\u00e3o e uma facilidade de manuten\u00e7\u00e3o.\n\n\nStateless (sem estado)\n\u00b6\n\n\nLeva em considera\u00e7\u00e3o que cada requisi\u00e7\u00e3o como uma transa\u00e7\u00e3o independente que n\u00e3o est\u00e1 relacionada a qualquer requisi\u00e7\u00e3o anterior, de forma que a comunica\u00e7\u00e3o consista de pares de requisi\u00e7\u00e3o e resposta independentes.\n\n\nGeralmente o proprio cliente inclui a informa\u00e7\u00e3o de estado da requisi\u00e7\u00e3o para que ele seja enviada ao servidor.\n\n\nCache\n\u00b6\n\n\nAlgumas informa\u00e7\u00f5es podem ser cacheadas para ganhar velocidade na resolu\u00e7\u00e3o das requisi\u00e7\u00f5es. (Isso pode facilitar, por\u00e9m, pode atrapalhar)\n\n\nInterface uniforme\n\u00b6\n\n\nDefine como cliente e servidor ir\u00e3o se comunicar, padronizando a entrada e saida de informa\u00e7\u00f5es. Exemplo:\n\n\nUma aplica\u00e7\u00e3o de vendas, precisa fazer um cadastro de clientes. Ent\u00e3o, sabemos que nessa RESTFul vai rodar um contrato (cliente) e nele v\u00e3o ser necess\u00e1rios as informa\u00e7\u00f5es de c\u00f3digo, nome, raz\u00e3o social, cnpj e etc. Tamb\u00e9m \u00e9 sabido que ser\u00e1 necess\u00e1rio listar, adicionar, editar e apagar clientes.\n\n\nIsso cria uma interface, onde o cliente e o servidor precisam cumprir essas regras, deixando-a uniforme para ambos os lados.\n\n\nSistemas em camada\n\u00b6\n\n\nUm cliente, podera se conectar a v\u00e1rios servidores. Seguindo nosso exemplo de clientes, podemos acessar nossa camada do cliente para salvar as informa\u00e7\u00f5es, por\u00e9m, antes disso, podemos acessar uma outra camada para efetuar valida\u00e7\u00e3o do cnpj, por exemplo, no site da receita.",
+            "title": "Restri\u00e7\u00f5es"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#constraints-ou-restricoes",
+            "text": "Warning  Lembrando que o protocolo \u00e9 livre para ser utilizado da forma que melhor lhe atender. Por\u00e9m, seguindo essas constraints, voc\u00ea ir\u00e1 aproveitar melhor a arquitetura",
+            "title": "Constraints ou Restri\u00e7\u00f5es"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#cliente-servidor",
+            "text": "Separa\u00e7\u00e3o de responsabilidade \u00e9 uma tecnicas mais utilizadas em desenvolvimento. E separando cliente de servidor, voc\u00ea consegue definir sua regra de neg\u00f3cio e sua camada de apresenta\u00e7\u00e3o mais simples e com focos em suas atividades (servidor se preocupa com banco de dados, valida\u00e7\u00f5es de regras, rotas e etc. J\u00e1 o cliente se preocupa com apresenta\u00e7\u00e3o, valida\u00e7\u00e3o de entrada, apresenta\u00e7\u00e3o de erros e etc).  Com isso podemos at\u00e9 hospedar e desenvolver as camadas separadamente. Isso gera uma flexibilidade de escalabilidade de aplica\u00e7\u00e3o e uma facilidade de manuten\u00e7\u00e3o.",
+            "title": "Cliente / Servidor"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#stateless-sem-estado",
+            "text": "Leva em considera\u00e7\u00e3o que cada requisi\u00e7\u00e3o como uma transa\u00e7\u00e3o independente que n\u00e3o est\u00e1 relacionada a qualquer requisi\u00e7\u00e3o anterior, de forma que a comunica\u00e7\u00e3o consista de pares de requisi\u00e7\u00e3o e resposta independentes.  Geralmente o proprio cliente inclui a informa\u00e7\u00e3o de estado da requisi\u00e7\u00e3o para que ele seja enviada ao servidor.",
+            "title": "Stateless (sem estado)"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#cache",
+            "text": "Algumas informa\u00e7\u00f5es podem ser cacheadas para ganhar velocidade na resolu\u00e7\u00e3o das requisi\u00e7\u00f5es. (Isso pode facilitar, por\u00e9m, pode atrapalhar)",
+            "title": "Cache"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#interface-uniforme",
+            "text": "Define como cliente e servidor ir\u00e3o se comunicar, padronizando a entrada e saida de informa\u00e7\u00f5es. Exemplo:  Uma aplica\u00e7\u00e3o de vendas, precisa fazer um cadastro de clientes. Ent\u00e3o, sabemos que nessa RESTFul vai rodar um contrato (cliente) e nele v\u00e3o ser necess\u00e1rios as informa\u00e7\u00f5es de c\u00f3digo, nome, raz\u00e3o social, cnpj e etc. Tamb\u00e9m \u00e9 sabido que ser\u00e1 necess\u00e1rio listar, adicionar, editar e apagar clientes.  Isso cria uma interface, onde o cliente e o servidor precisam cumprir essas regras, deixando-a uniforme para ambos os lados.",
+            "title": "Interface uniforme"
+        },
+        {
+            "location": "/conceitos/rest/constraints/#sistemas-em-camada",
+            "text": "Um cliente, podera se conectar a v\u00e1rios servidores. Seguindo nosso exemplo de clientes, podemos acessar nossa camada do cliente para salvar as informa\u00e7\u00f5es, por\u00e9m, antes disso, podemos acessar uma outra camada para efetuar valida\u00e7\u00e3o do cnpj, por exemplo, no site da receita.",
+            "title": "Sistemas em camada"
+        },
+        {
+            "location": "/conceitos/rest/fundamentos/",
+            "text": "Fundamentos\n\u00b6\n\n\nTudo \u00e9 um recurso\n\u00b6\n\n\nPara entender esse princ\u00edpio, \u00e9 preciso conceber a id\u00e9ia de representar dados por um formato espec\u00edfico e n\u00e3o por um arquivo f\u00edsico. \n\n\nCada dado dispon\u00edvel na Internet possui um formato que poderia ser descrito por um tipo de conte\u00fado.\n\n\nPor exemplo, imagens JPEG, V\u00eddeos MPEG, HTML, XML, documentos de texto, e dados bin\u00e1rios s\u00e3o todos os recursos com o seguinte conte\u00fado : imagem / jpeg, video / mpeg, texto/html, texto/xml e stream.\n\n\nCada recurso \u00e9 identific\u00e1vel por um \u00fanico identificador\n\u00b6\n\n\nComo a Internet cont\u00e9m tantos recursos diferentes, todos eles devem ser acess\u00edveis atrav\u00e9s de URIs e devem ser identificados de forma exclusiva. Al\u00e9m disso, as URIs podem ser leg\u00edveis por humanos, apesar do fato de que seus consumidores s\u00e3o mais propensos a ser programas de software.\n\n\nAs URI leg\u00edveis por humanos mant\u00eam os dados auto-descritivos e facilitam o desenvolvimento e isso ajuda voc\u00ea a reduzir ao m\u00ednimo o risco de erros l\u00f3gicos em seus programas.\n\n\nA seguir temos alguns exemplos de exemplos de URIs:\n\n\nhttp://www.macoratti.net/teste.jpg\n\n\nhttp://microsoft.com/data/video.mp3\n\n\nhttp://www.uol.com.br/futebol.xml\n\n\nhttp://mediafire.com/WaO4OcaWwATIzL-gDg\n\n\nEssas URIs exp\u00f5em diferentes tipos de recursos de forma direta.\n\n\nNo exemplo, \u00e9 bastante claro que os tipos de m\u00eddia desses recursos s\u00e3o : imagens, videos, documentos XML e, de documentos de arquivos bin\u00e1rios.\n\n\nUtiliza os m\u00e9todos HTTP padr\u00e3o\n\u00b6\n\n\nO protocolo HTTP (RFC 2616) define oito a\u00e7\u00f5es tamb\u00e9m conhecidos como verbos HTTP:  GET, POST,  PUT,  DELETE, HEAD, OPTIONS, TRACE e CONNECT.\n\n\nOs quatro primeiros (GET, POST, PUT e DELETE) atuam no contexto dos recursos, especialmente ao definir a\u00e7\u00f5es para manipula\u00e7\u00e3o de dados de recursos.",
+            "title": "Fundamentos"
+        },
+        {
+            "location": "/conceitos/rest/fundamentos/#fundamentos",
+            "text": "",
+            "title": "Fundamentos"
+        },
+        {
+            "location": "/conceitos/rest/fundamentos/#tudo-e-um-recurso",
+            "text": "Para entender esse princ\u00edpio, \u00e9 preciso conceber a id\u00e9ia de representar dados por um formato espec\u00edfico e n\u00e3o por um arquivo f\u00edsico.   Cada dado dispon\u00edvel na Internet possui um formato que poderia ser descrito por um tipo de conte\u00fado.  Por exemplo, imagens JPEG, V\u00eddeos MPEG, HTML, XML, documentos de texto, e dados bin\u00e1rios s\u00e3o todos os recursos com o seguinte conte\u00fado : imagem / jpeg, video / mpeg, texto/html, texto/xml e stream.",
+            "title": "Tudo \u00e9 um recurso"
+        },
+        {
+            "location": "/conceitos/rest/fundamentos/#cada-recurso-e-identificavel-por-um-unico-identificador",
+            "text": "Como a Internet cont\u00e9m tantos recursos diferentes, todos eles devem ser acess\u00edveis atrav\u00e9s de URIs e devem ser identificados de forma exclusiva. Al\u00e9m disso, as URIs podem ser leg\u00edveis por humanos, apesar do fato de que seus consumidores s\u00e3o mais propensos a ser programas de software.  As URI leg\u00edveis por humanos mant\u00eam os dados auto-descritivos e facilitam o desenvolvimento e isso ajuda voc\u00ea a reduzir ao m\u00ednimo o risco de erros l\u00f3gicos em seus programas.  A seguir temos alguns exemplos de exemplos de URIs:  http://www.macoratti.net/teste.jpg  http://microsoft.com/data/video.mp3  http://www.uol.com.br/futebol.xml  http://mediafire.com/WaO4OcaWwATIzL-gDg  Essas URIs exp\u00f5em diferentes tipos de recursos de forma direta.  No exemplo, \u00e9 bastante claro que os tipos de m\u00eddia desses recursos s\u00e3o : imagens, videos, documentos XML e, de documentos de arquivos bin\u00e1rios.",
+            "title": "Cada recurso \u00e9 identific\u00e1vel por um \u00fanico identificador"
+        },
+        {
+            "location": "/conceitos/rest/fundamentos/#utiliza-os-metodos-http-padrao",
+            "text": "O protocolo HTTP (RFC 2616) define oito a\u00e7\u00f5es tamb\u00e9m conhecidos como verbos HTTP:  GET, POST,  PUT,  DELETE, HEAD, OPTIONS, TRACE e CONNECT.  Os quatro primeiros (GET, POST, PUT e DELETE) atuam no contexto dos recursos, especialmente ao definir a\u00e7\u00f5es para manipula\u00e7\u00e3o de dados de recursos.",
+            "title": "Utiliza os m\u00e9todos HTTP padr\u00e3o"
+        },
+        {
+            "location": "/conceitos/rest/verbos/",
+            "text": "Verbos\n\u00b6\n\n\nO protocolo HTTP define m\u00e9todos (\u00e0s vezes referidos como verbos) para indicar a a\u00e7\u00e3o desejada a ser realizada no recurso identificado. O que este recurso representa, se s\u00e3o dados pr\u00e9-existentes ou dados gerados dinamicamente, depende da implementa\u00e7\u00e3o do servidor. Muitas vezes, o recurso corresponde a um arquivo ou a sa\u00edda de um execut\u00e1vel residente no servidor. (fonte Wikipedia)\nEm resumo, os verbos HTTP s\u00e3o os m\u00e9todos de requisi\u00e7\u00e3o que utilizamos para acessar os endpoints de uma RESTful API.\n\n\nPOST\n\u00b6\n\n\nO verbo POST \u00e9 mais frequentemente utilizado para criar novos recursos. Na cria\u00e7\u00e3o bem-sucedida, retornar o status HTTP 201.\n\n\nEle n\u00e3o \u00e9 um m\u00e9todo seguro, pois altera o estado do recurso no servidor. Ele tamb\u00e9m n\u00e3o \u00e9 idempotente, o que quer dizer que se ele for executado duas vezes de forma id\u00eantica ser\u00e3o criados dois itens diferentes com o mesmo conjunto de dados.\n\n\nGET\n\u00b6\n\n\nO m\u00e9todo HTTP GET \u00e9 usado para ler ou recuperar uma representa\u00e7\u00e3o de um recurso. Em caso de sucesso, retorna uma representa\u00e7\u00e3o em JSON e um c\u00f3digo de resposta HTTP de 200 (OK). Em caso de erro, ele geralmente retorna um 404 (NOT FOUND) ou 400 (BAD REQUEST).\n\n\nDe acordo com o design da especifica\u00e7\u00e3o HTTP, requisi\u00e7\u00f5es GET (juntamente com HEAD) s\u00e3o usadas apenas para ler dados e jamais alter\u00e1-los. Portanto, quando usados dessa forma, s\u00e3o considerados seguros.\n\n\nAl\u00e9m disso, GET (e HEAD) \u00e9 idempotente, o que significa que fazer v\u00e1rias solicita\u00e7\u00f5es id\u00eanticas acaba tendo o mesmo resultado de uma \u00fanica solicita\u00e7\u00e3o.\n\n\nPUT\n\u00b6\n\n\nPUT \u00e9 mais utilizado para substituir (ou atualizar) recursos, executando a requisi\u00e7\u00e3o para uma URI de recurso conhecido, com o corpo da requisi\u00e7\u00e3o contendo a representa\u00e7\u00e3o rec\u00e9m-atualizada do recurso original.\n\n\nNa atualiza\u00e7\u00e3o bem-sucedida, retorna 200 (ou 204 se n\u00e3o retornar qualquer conte\u00fado no corpo). Retornar os dados do recurso no corpo \u00e9 opcional, lembrando que fazer isso causa maior consumo de banda.\n\n\nPUT n\u00e3o \u00e9 uma opera\u00e7\u00e3o segura, pois modifica estado no servidor, mas \u00e9 idempotente. Em outras palavras, se voc\u00ea atualizar um recurso usando PUT e, em seguida, fazer essa mesma chamada novamente, o recurso ainda est\u00e1 l\u00e1 e ainda tem o mesmo estado.\n\n\nObs: Se, por exemplo, executar uma requisi\u00e7\u00e3o PUT em um recurso incrementar um contador (dentro do recurso), a chamada n\u00e3o \u00e9 mais idempotente. \u00c9 recomendado manter as solicita\u00e7\u00f5es PUT idempotentes. Use o POST para solicita\u00e7\u00f5es n\u00e3o idempotentes.\n\n\nPATCH\n\u00b6\n\n\nPATCH \u00e9 usado para modificar parcialmente os recursos. A requisi\u00e7\u00e3o s\u00f3 precisa conter as altera\u00e7\u00f5es espec\u00edficas para o recurso, n\u00e3o o recurso completo.\n\n\nSe parece com PUT, mas o corpo cont\u00e9m um conjunto de instru\u00e7\u00f5es descrevendo como um recurso no servidor deve ser modificado para produzir uma nova vers\u00e3o.\n\n\nPATCH n\u00e3o \u00e9 nem seguro, nem idempotente.\n\n\nDELETE\n\u00b6\n\n\nDELETE \u00e9 bastante f\u00e1cil de entender. Ele \u00e9 usado para excluir um recurso identificado por um URI.\n\n\nNa exclus\u00e3o bem-sucedida, devolve o status HTTP 200 (OK) ou o status HTTP 204 (NO CONTENT) sem corpo de resposta.\n\n\nOpera\u00e7\u00f5es DELETE s\u00e3o idempotentes.\n\n\nH\u00e1 uma advert\u00eancia sobre idempot\u00eancia no DELETE. Chamar DELETE em um recurso uma segunda vez geralmente retornar\u00e1 um 404 (NOT FOUND) j\u00e1 que ele j\u00e1 foi removido e, portanto, n\u00e3o \u00e9 mais encontr\u00e1vel. Isso, por algumas opini\u00f5es, faz opera\u00e7\u00f5es DELETE n\u00e3o mais idempotente, no entanto, o estado final do recurso \u00e9 o mesmo. Retornar um 404 \u00e9 aceit\u00e1vel e comunica com precis\u00e3o o status da chamada.\n\n\nObs: Se a requisi\u00e7\u00e3o DELETE decrementa um contador (dentro do recurso), a chamada DELETE n\u00e3o \u00e9 mais idempotente. \u00c9 recomend\u00e1vel usar o POST para solicita\u00e7\u00f5es de recursos n\u00e3o idempotentes.",
+            "title": "Verbos"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#verbos",
+            "text": "O protocolo HTTP define m\u00e9todos (\u00e0s vezes referidos como verbos) para indicar a a\u00e7\u00e3o desejada a ser realizada no recurso identificado. O que este recurso representa, se s\u00e3o dados pr\u00e9-existentes ou dados gerados dinamicamente, depende da implementa\u00e7\u00e3o do servidor. Muitas vezes, o recurso corresponde a um arquivo ou a sa\u00edda de um execut\u00e1vel residente no servidor. (fonte Wikipedia)\nEm resumo, os verbos HTTP s\u00e3o os m\u00e9todos de requisi\u00e7\u00e3o que utilizamos para acessar os endpoints de uma RESTful API.",
+            "title": "Verbos"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#post",
+            "text": "O verbo POST \u00e9 mais frequentemente utilizado para criar novos recursos. Na cria\u00e7\u00e3o bem-sucedida, retornar o status HTTP 201.  Ele n\u00e3o \u00e9 um m\u00e9todo seguro, pois altera o estado do recurso no servidor. Ele tamb\u00e9m n\u00e3o \u00e9 idempotente, o que quer dizer que se ele for executado duas vezes de forma id\u00eantica ser\u00e3o criados dois itens diferentes com o mesmo conjunto de dados.",
+            "title": "POST"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#get",
+            "text": "O m\u00e9todo HTTP GET \u00e9 usado para ler ou recuperar uma representa\u00e7\u00e3o de um recurso. Em caso de sucesso, retorna uma representa\u00e7\u00e3o em JSON e um c\u00f3digo de resposta HTTP de 200 (OK). Em caso de erro, ele geralmente retorna um 404 (NOT FOUND) ou 400 (BAD REQUEST).  De acordo com o design da especifica\u00e7\u00e3o HTTP, requisi\u00e7\u00f5es GET (juntamente com HEAD) s\u00e3o usadas apenas para ler dados e jamais alter\u00e1-los. Portanto, quando usados dessa forma, s\u00e3o considerados seguros.  Al\u00e9m disso, GET (e HEAD) \u00e9 idempotente, o que significa que fazer v\u00e1rias solicita\u00e7\u00f5es id\u00eanticas acaba tendo o mesmo resultado de uma \u00fanica solicita\u00e7\u00e3o.",
+            "title": "GET"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#put",
+            "text": "PUT \u00e9 mais utilizado para substituir (ou atualizar) recursos, executando a requisi\u00e7\u00e3o para uma URI de recurso conhecido, com o corpo da requisi\u00e7\u00e3o contendo a representa\u00e7\u00e3o rec\u00e9m-atualizada do recurso original.  Na atualiza\u00e7\u00e3o bem-sucedida, retorna 200 (ou 204 se n\u00e3o retornar qualquer conte\u00fado no corpo). Retornar os dados do recurso no corpo \u00e9 opcional, lembrando que fazer isso causa maior consumo de banda.  PUT n\u00e3o \u00e9 uma opera\u00e7\u00e3o segura, pois modifica estado no servidor, mas \u00e9 idempotente. Em outras palavras, se voc\u00ea atualizar um recurso usando PUT e, em seguida, fazer essa mesma chamada novamente, o recurso ainda est\u00e1 l\u00e1 e ainda tem o mesmo estado.  Obs: Se, por exemplo, executar uma requisi\u00e7\u00e3o PUT em um recurso incrementar um contador (dentro do recurso), a chamada n\u00e3o \u00e9 mais idempotente. \u00c9 recomendado manter as solicita\u00e7\u00f5es PUT idempotentes. Use o POST para solicita\u00e7\u00f5es n\u00e3o idempotentes.",
+            "title": "PUT"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#patch",
+            "text": "PATCH \u00e9 usado para modificar parcialmente os recursos. A requisi\u00e7\u00e3o s\u00f3 precisa conter as altera\u00e7\u00f5es espec\u00edficas para o recurso, n\u00e3o o recurso completo.  Se parece com PUT, mas o corpo cont\u00e9m um conjunto de instru\u00e7\u00f5es descrevendo como um recurso no servidor deve ser modificado para produzir uma nova vers\u00e3o.  PATCH n\u00e3o \u00e9 nem seguro, nem idempotente.",
+            "title": "PATCH"
+        },
+        {
+            "location": "/conceitos/rest/verbos/#delete",
+            "text": "DELETE \u00e9 bastante f\u00e1cil de entender. Ele \u00e9 usado para excluir um recurso identificado por um URI.  Na exclus\u00e3o bem-sucedida, devolve o status HTTP 200 (OK) ou o status HTTP 204 (NO CONTENT) sem corpo de resposta.  Opera\u00e7\u00f5es DELETE s\u00e3o idempotentes.  H\u00e1 uma advert\u00eancia sobre idempot\u00eancia no DELETE. Chamar DELETE em um recurso uma segunda vez geralmente retornar\u00e1 um 404 (NOT FOUND) j\u00e1 que ele j\u00e1 foi removido e, portanto, n\u00e3o \u00e9 mais encontr\u00e1vel. Isso, por algumas opini\u00f5es, faz opera\u00e7\u00f5es DELETE n\u00e3o mais idempotente, no entanto, o estado final do recurso \u00e9 o mesmo. Retornar um 404 \u00e9 aceit\u00e1vel e comunica com precis\u00e3o o status da chamada.  Obs: Se a requisi\u00e7\u00e3o DELETE decrementa um contador (dentro do recurso), a chamada DELETE n\u00e3o \u00e9 mais idempotente. \u00c9 recomend\u00e1vel usar o POST para solicita\u00e7\u00f5es de recursos n\u00e3o idempotentes.",
+            "title": "DELETE"
+        },
+        {
+            "location": "/conceitos/rest/respostas/",
+            "text": "Os c\u00f3digos de resposta (status codes) HTTP\n\u00b6\n\n\nNas descri\u00e7\u00f5es dos verbos HTTP foram citados diversas vezes os status code do protocolo HTTP.\n\n\nEsse \u00e9 outro item importante para a arquitetura de uma API REST, porque, da mesma maneira que acontece como os verbos HTTP, elas formam um padr\u00e3o facilmente reconhecido por quem for consumir o web service.\n\n\nOs principais c\u00f3digos utilizados para as respostas de um endpoint s\u00e3o o 200 (OK), o 201 (CREATED), o 204 (NO CONTENT), o 404 (NOT FOUND) e o 400 (BAD REQUEST).\n\n\nTodos os c\u00f3digos tem nomes autoexplicativos, portanto \u00e9 muito simples lembrar o que utilizar em cada situa\u00e7\u00e3o.\n\n\nExiste uma lista enorme de c\u00f3digos de resposta do protocolo HTTP que podem ser utilizados, como o 301 (MOVED PERMANETLY) e o 304 (NOT MODIFIED). Sendo o segundo para conte\u00fados em cache, por exemplo.\n\n\nOs c\u00f3digos de sucesso tem o padr\u00e3o 20x, os de redirecionamento 30x, os de erro do cliente 40x e os de erro de servidor 50x.\n\n\nLembrando mais uma vez, os padr\u00f5es facilitam qualquer desenvolvedor de entender facilmente o que aconteceu com o retorno da requisi\u00e7\u00e3o que ele executou.\n\n\nNo caso de erros, mesmo tendo esses padr\u00f5es, \u00e9 importante devolver ao cliente uma mensagem clara do que aconteceu com a requisi\u00e7\u00e3o e qual o motivo do erro.\n\n\nPara ver mais detalhes sobre os c\u00f3digos HTTP e tamb\u00e9m a lista completa deles, acesse o link \nhttps://httpstatuses.com/\n.\n\n\n\n\n\n\n\n\n\n\nC\u00f3digo\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n1\u00d7\u00d7\n\n\nInformational\n\n\n\n\n\n\n100\n\n\nContinue\n\n\n\n\n\n\n101\n\n\nSwitching Protocols\n\n\n\n\n\n\n102\n\n\nProcessing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\u00f3digo\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n2\u00d7\u00d7\n\n\nSuccess\n\n\n\n\n\n\n200\n\n\nOK\n\n\n\n\n\n\n201\n\n\nCreated\n\n\n\n\n\n\n202\n\n\nAccepted\n\n\n\n\n\n\n203\n\n\nNon-authoritative Information\n\n\n\n\n\n\n204\n\n\nNo Content\n\n\n\n\n\n\n205\n\n\nReset Content\n\n\n\n\n\n\n206\n\n\nPartial Content\n\n\n\n\n\n\n207\n\n\nMulti-Status\n\n\n\n\n\n\n208\n\n\nAlready Reported\n\n\n\n\n\n\n226\n\n\nIM Used\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\u00f3digo\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n3\u00d7\u00d7\n\n\nRedirection\n\n\n\n\n\n\n300\n\n\nMultiple Choices\n\n\n\n\n\n\n301\n\n\nMoved Permanently\n\n\n\n\n\n\n302\n\n\nFound\n\n\n\n\n\n\n303\n\n\nSee Other\n\n\n\n\n\n\n304\n\n\nNot Modified\n\n\n\n\n\n\n305\n\n\nUse Proxy\n\n\n\n\n\n\n307\n\n\nTemporary Redirect\n\n\n\n\n\n\n308\n\n\nPermanent Redirect\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\u00f3digo\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n4\u00d7\u00d7\n\n\nClient Error\n\n\n\n\n\n\n400\n\n\nBad Request\n\n\n\n\n\n\n401\n\n\nUnauthorized\n\n\n\n\n\n\n402\n\n\nPayment Required\n\n\n\n\n\n\n403\n\n\nForbidden\n\n\n\n\n\n\n404\n\n\nNot Found\n\n\n\n\n\n\n405\n\n\nMethod Not Allowed\n\n\n\n\n\n\n406\n\n\nNot Acceptable\n\n\n\n\n\n\n407\n\n\nProxy Authentication Required\n\n\n\n\n\n\n408\n\n\nRequest Timeout\n\n\n\n\n\n\n409\n\n\nConflict\n\n\n\n\n\n\n410\n\n\nGone\n\n\n\n\n\n\n411\n\n\nLength Required\n\n\n\n\n\n\n412\n\n\nPrecondition Failed\n\n\n\n\n\n\n413\n\n\nPayload Too Large\n\n\n\n\n\n\n414\n\n\nRequest-URI Too Long\n\n\n\n\n\n\n415\n\n\nUnsupported Media Type\n\n\n\n\n\n\n416\n\n\nRequested Range Not Satisfiable\n\n\n\n\n\n\n417\n\n\nExpectation Failed\n\n\n\n\n\n\n418\n\n\nI'm a teapot\n\n\n\n\n\n\n421\n\n\nMisdirected Request\n\n\n\n\n\n\n422\n\n\nUnprocessable Entity\n\n\n\n\n\n\n423\n\n\nLocked\n\n\n\n\n\n\n424\n\n\nFailed Dependency\n\n\n\n\n\n\n426\n\n\nUpgrade Required\n\n\n\n\n\n\n428\n\n\nPrecondition Required\n\n\n\n\n\n\n429\n\n\nToo Many Requests\n\n\n\n\n\n\n431\n\n\nRequest Header Fields Too Large\n\n\n\n\n\n\n444\n\n\nConnection Closed Without Response\n\n\n\n\n\n\n451\n\n\nUnavailable For Legal Reasons\n\n\n\n\n\n\n499\n\n\nClient Closed Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nC\u00f3digo\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n5\u00d7\u00d7\n\n\nServer Error\n\n\n\n\n\n\n500\n\n\nInternal Server Error\n\n\n\n\n\n\n501\n\n\nNot Implemented\n\n\n\n\n\n\n502\n\n\nBad Gateway\n\n\n\n\n\n\n503\n\n\nService Unavailable\n\n\n\n\n\n\n504\n\n\nGateway Timeout\n\n\n\n\n\n\n505\n\n\nHTTP Version Not Supported\n\n\n\n\n\n\n506\n\n\nVariant Also Negotiates\n\n\n\n\n\n\n507\n\n\nInsufficient Storage\n\n\n\n\n\n\n508\n\n\nLoop Detected\n\n\n\n\n\n\n510\n\n\nNot Extended\n\n\n\n\n\n\n511\n\n\nNetwork Authentication Required\n\n\n\n\n\n\n599\n\n\nNetwork Connect Timeout Error",
+            "title": "Respostas"
+        },
+        {
+            "location": "/conceitos/rest/respostas/#os-codigos-de-resposta-status-codes-http",
+            "text": "Nas descri\u00e7\u00f5es dos verbos HTTP foram citados diversas vezes os status code do protocolo HTTP.  Esse \u00e9 outro item importante para a arquitetura de uma API REST, porque, da mesma maneira que acontece como os verbos HTTP, elas formam um padr\u00e3o facilmente reconhecido por quem for consumir o web service.  Os principais c\u00f3digos utilizados para as respostas de um endpoint s\u00e3o o 200 (OK), o 201 (CREATED), o 204 (NO CONTENT), o 404 (NOT FOUND) e o 400 (BAD REQUEST).  Todos os c\u00f3digos tem nomes autoexplicativos, portanto \u00e9 muito simples lembrar o que utilizar em cada situa\u00e7\u00e3o.  Existe uma lista enorme de c\u00f3digos de resposta do protocolo HTTP que podem ser utilizados, como o 301 (MOVED PERMANETLY) e o 304 (NOT MODIFIED). Sendo o segundo para conte\u00fados em cache, por exemplo.  Os c\u00f3digos de sucesso tem o padr\u00e3o 20x, os de redirecionamento 30x, os de erro do cliente 40x e os de erro de servidor 50x.  Lembrando mais uma vez, os padr\u00f5es facilitam qualquer desenvolvedor de entender facilmente o que aconteceu com o retorno da requisi\u00e7\u00e3o que ele executou.  No caso de erros, mesmo tendo esses padr\u00f5es, \u00e9 importante devolver ao cliente uma mensagem clara do que aconteceu com a requisi\u00e7\u00e3o e qual o motivo do erro.  Para ver mais detalhes sobre os c\u00f3digos HTTP e tamb\u00e9m a lista completa deles, acesse o link  https://httpstatuses.com/ .      C\u00f3digo  Description      1\u00d7\u00d7  Informational    100  Continue    101  Switching Protocols    102  Processing          C\u00f3digo  Description      2\u00d7\u00d7  Success    200  OK    201  Created    202  Accepted    203  Non-authoritative Information    204  No Content    205  Reset Content    206  Partial Content    207  Multi-Status    208  Already Reported    226  IM Used          C\u00f3digo  Description      3\u00d7\u00d7  Redirection    300  Multiple Choices    301  Moved Permanently    302  Found    303  See Other    304  Not Modified    305  Use Proxy    307  Temporary Redirect    308  Permanent Redirect          C\u00f3digo  Description      4\u00d7\u00d7  Client Error    400  Bad Request    401  Unauthorized    402  Payment Required    403  Forbidden    404  Not Found    405  Method Not Allowed    406  Not Acceptable    407  Proxy Authentication Required    408  Request Timeout    409  Conflict    410  Gone    411  Length Required    412  Precondition Failed    413  Payload Too Large    414  Request-URI Too Long    415  Unsupported Media Type    416  Requested Range Not Satisfiable    417  Expectation Failed    418  I'm a teapot    421  Misdirected Request    422  Unprocessable Entity    423  Locked    424  Failed Dependency    426  Upgrade Required    428  Precondition Required    429  Too Many Requests    431  Request Header Fields Too Large    444  Connection Closed Without Response    451  Unavailable For Legal Reasons    499  Client Closed Request          C\u00f3digo  Description      5\u00d7\u00d7  Server Error    500  Internal Server Error    501  Not Implemented    502  Bad Gateway    503  Service Unavailable    504  Gateway Timeout    505  HTTP Version Not Supported    506  Variant Also Negotiates    507  Insufficient Storage    508  Loop Detected    510  Not Extended    511  Network Authentication Required    599  Network Connect Timeout Error",
+            "title": "Os c\u00f3digos de resposta (status codes) HTTP"
+        }
+    ]
+}
