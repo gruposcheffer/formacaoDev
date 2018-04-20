@@ -71,6 +71,26 @@
             "title": "CSS"
         },
         {
+            "location": "/aulas/1-rest/",
+            "text": "Aula 1 - Rest\n\u00b6\n\n\nNessa aula que teve in\u00edcio as 07:30 e durou at\u00e9 as 09:30 (dura\u00e7\u00e3o de 2 horas), participaram 6 pessoas:\n\n\n\n\n\n\n\n\nNome\n\n\nSetor\n\n\nConhecimento Pr\u00e9vio\n\n\n\n\n\n\n\n\n\n\nMarcos Oliveira\n\n\nAnalista de TI junior\n\n\nN\u00e3o\n\n\n\n\n\n\nEliston Guarda\n\n\nAnalista de TI junior\n\n\nSim\n\n\n\n\n\n\nBruno \u00c1vila\n\n\nCoordenador de Servi\u00e7os El\u00e9tricos\n\n\nN\u00e3o\n\n\n\n\n\n\nLuander Ilidio\n\n\nAuxiliar Administrativo Junior\n\n\nN\u00e3o\n\n\n\n\n\n\nDiego Silva\n\n\nAnalista de TI Pleno\n\n\nN\u00e3o\n\n\n\n\n\n\n\n\nAbordagem\n\u00b6\n\n\nNela, utilizamos o conte\u00fado do site e exemplos de aplica\u00e7\u00f5es internas (Painel de integra\u00e7\u00e3o, Painel de Pluma e Cota\u00e7\u00e3o WEB) para exemplificar situa\u00e7\u00f5es de uso do REST, suas seguran\u00e7as, falhas e aplica\u00e7\u00e3o na pr\u00e1tica.\n\n\nAtividades\n\u00b6\n\n\nDevido a ser um conceito te\u00f3rico, n\u00e3o desenvolvementos nenhum atividade.",
+            "title": "Rest"
+        },
+        {
+            "location": "/aulas/1-rest/#aula-1-rest",
+            "text": "Nessa aula que teve in\u00edcio as 07:30 e durou at\u00e9 as 09:30 (dura\u00e7\u00e3o de 2 horas), participaram 6 pessoas:     Nome  Setor  Conhecimento Pr\u00e9vio      Marcos Oliveira  Analista de TI junior  N\u00e3o    Eliston Guarda  Analista de TI junior  Sim    Bruno \u00c1vila  Coordenador de Servi\u00e7os El\u00e9tricos  N\u00e3o    Luander Ilidio  Auxiliar Administrativo Junior  N\u00e3o    Diego Silva  Analista de TI Pleno  N\u00e3o",
+            "title": "Aula 1 - Rest"
+        },
+        {
+            "location": "/aulas/1-rest/#abordagem",
+            "text": "Nela, utilizamos o conte\u00fado do site e exemplos de aplica\u00e7\u00f5es internas (Painel de integra\u00e7\u00e3o, Painel de Pluma e Cota\u00e7\u00e3o WEB) para exemplificar situa\u00e7\u00f5es de uso do REST, suas seguran\u00e7as, falhas e aplica\u00e7\u00e3o na pr\u00e1tica.",
+            "title": "Abordagem"
+        },
+        {
+            "location": "/aulas/1-rest/#atividades",
+            "text": "Devido a ser um conceito te\u00f3rico, n\u00e3o desenvolvementos nenhum atividade.",
+            "title": "Atividades"
+        },
+        {
             "location": "/conceitos/rest/",
             "text": "Treinamento de Rest\n\u00b6\n\n\nNessa etapa iremos entender como funciona e como aplicados o uso do rest no dia a dia do desenvolvimento de sistemas.\n\n\nPara isso, iremos abordar as sequintes situa\u00e7\u00f5es:\n\u00b6\n\n\n\n\nO que \u00e9 Rest\n\n\nRestri\u00e7\u00f5es (Contraints)\n\n\nFundamentos\n\n\nVerbos\n\n\nRespostas\n\n\n\n\nFinalizando\n\u00b6\n\n\nFinalizando, vou demonstrar uma aplica\u00e7\u00e3o real utilizando a arquitetura, demonstrando sua simplicidade.",
             "title": "O que vamos aprender"
