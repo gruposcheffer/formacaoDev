@@ -3,7 +3,7 @@
 Nessa aula que teve início no dia 20/04/2018 entre às 07:30H e 09:30H (duração de 2 horas).
 
 
-![aula01](/img/aula01_self.jpeg)
+![aula01](/img/aula01_self.JPEG)
 
 ## Participantes
 
