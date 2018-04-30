@@ -5,13 +5,31 @@
         
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-20</lastmod>
+     <lastmod>2018-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/objetivo/</loc>
+     <lastmod>2018-04-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/pre-requisitos/</loc>
-     <lastmod>2018-04-20</lastmod>
+     <lastmod>2018-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/inscricao/</loc>
+     <lastmod>2018-04-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/agenda/</loc>
+     <lastmod>2018-04-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -21,7 +39,7 @@
         
     <url>
      <loc>/aulas/1-rest/</loc>
-     <lastmod>2018-04-20</lastmod>
+     <lastmod>2018-04-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
