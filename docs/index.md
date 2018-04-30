@@ -18,32 +18,6 @@ Nele vamos abordar os seguintes assuntos.
 
 <div markdown="1" class="two-column">
 
-## Banco de Dados
-
-* Queries
-* Joins
-* Queries Avançadas
-* Updates, Inserts e Deletes
-* Procedures
-* Functions
-
-</div>
-
-
-<div markdown="1" class="two-column">
-
-## LSP
-
-* Conceitos
-* Relatórios
-* Regras
-* Serviços
-* Telas SGI
-
-</div>
-
-<div markdown="1" class="two-column">
-
 ## WEB (Javascript)
 
 * [Html (Pré requisito)](https://cursos.alura.com.br/category/front-end)
@@ -70,6 +44,8 @@ Nele vamos abordar os seguintes assuntos.
 <div markdown="1" class="two-column">
 
 ## Django
+* Conceitos (Configuração, ORM)
+* Admin
 * Aplicação Simples
 * Django RestFramework (webAPI)
 * Aplicação Profissional

@@ -70,7 +70,10 @@ markdown_extensions:
 pages:
   - Home: 
     - Sobre a formação: 'index.md'
+    - Objetivos: 'objetivo.md'
     - Pré Requisitos: 'pre-requisitos.md'
+    - Inscrição: 'inscricao.md'
+    - Agenda: 'agenda.md'
   - Aulas:
     - Rest: 'aulas/1-rest.md'
   - Conceitos:
